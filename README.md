@@ -24,7 +24,7 @@ I'm a developer who's very enthusiastic about new ideas.
 
 &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netcriptus&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netcriptus&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=netcriptus&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
