@@ -4,7 +4,7 @@
 I'm a developer who's very enthusiastic about new ideas.
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on the [Raiden Network](https://github.com/netcriptus/raiden)
+- 🔭 I’m currently working for [Anaconda](https://github.com/anaconda)
 - 🌱 My strong suit is python and backend api's
 - 📫 How to reach me: [fernando@cezar.link](mailto:fernando@cezar.link)
 
