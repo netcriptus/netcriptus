@@ -29,7 +29,7 @@ Checkout my passion project and learning playground, a tool developed to help LA
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=netcriptus&hide=java,html,css&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
-[![Fernando's GitHub stats](https://github-stats-extended.vercel.app/api?username=netcriptus&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+[![Fernando's GitHub stats](https://github-stats-extended.vercel.app/api?username=netcriptus&theme=dark&include_all_commits=true&show=contributions&v=1)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--
