@@ -1,12 +1,14 @@
 ### Hi there 👋, I'm Fernando!
 
 
-I'm a developer who's very enthusiastic about new ideas.
+I'm a developer who's very enthusiastic about clean code, clean architecture, and highly scalable APIs.
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working for [Anaconda](https://github.com/anaconda)
-- 🌱 My strong suit is python and backend api's
+- 🌱 My strong suit is Python and backend APIs, and now I'm branching out towards fullstack.
 - 📫 How to reach me: [fernando@cezar.link](mailto:fernando@cezar.link)
+
+Checkout my passion project and learning playground, a tool developed to help LARP organizers keep track of their events: [LarpHub](https://larphub.org)
 
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/fernando_cezar?style=plastic)
