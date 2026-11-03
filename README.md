@@ -10,23 +10,24 @@ I'm a developer who's very enthusiastic about new ideas.
 
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/fernando_cezar?style=plastic)
-![Twitter Follow](https://img.shields.io/twitter/follow/fernando_cezar?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/fernando-cezar-bernardelli-8b333a32)
+[![Blog](https://img.shields.io/badge/Blog-Hashnode-blue?style=social&logo=hashnode)](https://chaoscoding.hashnode.dev/)
 
 
 ---
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI Logo" width="50" height="50"/> <img src="https://gofastmcp.com/assets/brand/favicon-light.svg" alt="FastMCP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Go Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes Logo" width="50" height="50"/>
 
 
 ---
 
 &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netcriptus&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=netcriptus&hide=java,html,css&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=netcriptus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Fernando's GitHub stats](https://github-stats-extended.vercel.app/api?username=netcriptus&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--
